@@ -1,6 +1,7 @@
-<h1>Yo 😎</h1>
+<h1>Yo 👋😎</h1>
 
-- 💻 Currently studying ICT engineer thingies!
+- 💻 Studying ICT Engineering!
+- 🧐 Driven to explore new programming topics
 
 <a href="https://github.com/jokkeez">
   <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=dracula">
