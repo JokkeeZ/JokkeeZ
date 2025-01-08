@@ -5,10 +5,10 @@
 - Always learning and exploring new technologies and topics.
 
 <a href="https://github.com/jokkeez">
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=dracula">
+  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=transparent">
 </a>
 <a href="https://github.com/jokkeez">
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=jokkeez&show_icons=true&theme=dracula">
+  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=jokkeez&show_icons=true&theme=transparent">
 </a>
 
 <h1>Favorite tools</h1>
