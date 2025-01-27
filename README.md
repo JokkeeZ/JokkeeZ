@@ -1,20 +1,26 @@
-<h1 align="center">Hi, I'm Joel 👋</h1>
-<h3 align="center">Self-taught full-stack developer currently pursuing a degree in ICT Engineering.</h3>
+### Hi, I'm Joel 👋
+I'm self-taught full-stack developer with a strong interest in programming and technology.</br>
+Currently, I'm studying **ICT engineering** to hopefully turn my passion for coding into a future career.</br>
+Keen on discovering and experimenting with new open-source projects!</br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,unity,c,python,go,linux,windows,vscode,arduino,git,js,svelte,html" />
-  </a>
-</p>
+### Some of my main interests include:
+🧐 Learning about new tech and tools, especially open-source ones</br>
+💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 24.04)</br>
+🎧 Listening to a lot of music while doing all of the above</br>
 
-<h1></h1>
+I'm always looking for opportunities to learn and grow while working on interesting projects.
+</br>
 
-<p align="center">
-  <a href="https://github.com/jokkeez">
-    <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=transparent">
-  </a>
-  <a href="https://github.com/jokkeez">
-    <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=jokkeez&show_icons=true&theme=transparent">
-  </a>
-</p>
+### Languages & tools
+<a href="https://github.com/jokkeez">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,c,arduino,python,azure,linux,git,js,nodejs,svelte,html" />
+</a>
 
+<hr>
+
+<a href="https://github.com/jokkeez">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=transparent"/>
+</a>
+<a href="https://github.com/jokkeez">
+  <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=jokkeez&show_icons=true&rank_icon=github&theme=transparent"/>
+</a>
