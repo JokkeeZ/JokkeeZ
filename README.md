@@ -1,6 +1,6 @@
 ### Hi, I'm Joel 👋
 I'm self-taught full-stack developer with a strong interest in programming and technology.</br>
-Currently, I'm studying **ICT engineering** to hopefully turn my passion for coding into a future career.</br>
+Currently, I'm studying **ICT engineering** to hopefully turn my passion for programming into a future career.</br>
 Keen on discovering and experimenting with new open-source projects!</br>
 
 ### Some of my main interests include:
