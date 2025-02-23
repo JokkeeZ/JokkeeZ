@@ -7,8 +7,6 @@ Keen on discovering and experimenting with new open-source projects!</br>
 🧐 Learning about new tech and tools, especially open-source ones</br>
 💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 24.04)</br>
 🎧 Listening to a lot of music while doing all of the above</br>
-
-I'm always looking for opportunities to learn and grow while working on interesting projects.
 </br>
 
 ### Languages & tools
