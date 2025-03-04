@@ -6,7 +6,6 @@ Keen on discovering and experimenting with new open-source projects!</br>
 🧐 Learning about new tech and tools, especially open-source ones</br>
 💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 24.04)</br>
 🎧 Listening to a lot of music while doing all of the above</br>
-</br>
 
 ### Languages & tools
 <a href="https://github.com/jokkeez">
