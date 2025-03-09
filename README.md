@@ -7,9 +7,9 @@ Keen on discovering and experimenting with new open-source projects!</br>
 💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 24.04)</br>
 🎧 Listening to a lot of music while doing all of the above</br>
 
-### Languages & tools
+### My go-to languages & tools:
 <a href="https://github.com/jokkeez">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,c,arduino,python,azure,linux,git,js,nodejs,svelte,html" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,unity,c,python,azure,linux,git,ts,js,nodejs,svelte,html" />
 </a>
 
 <hr>
