@@ -1,5 +1,5 @@
 ### Hi, I'm Joel 👋
-I'm an ICT engineering student who is trying to turn my passion for programming into a future career.</br>
+I'm an ICT engineering student who is slowly turning my passion for programming into a future career.</br>
 Keen on discovering and experimenting with new open-source projects!</br>
 
 ### Some of my main interests include:
