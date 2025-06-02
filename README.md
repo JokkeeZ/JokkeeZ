@@ -4,7 +4,7 @@ Keen on discovering and experimenting with new open-source projects!</br>
 
 ### Some of my main interests include:
 🧐 Learning about new tech and tools, especially open-source ones</br>
-💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 24.10)</br>
+💻 Using and expanding my knowledge of Linux (currently daily driving Ubuntu 25.04)</br>
 🎧 Listening to a lot of music while doing all of the above</br>
 
 ### My go-to languages & tools:
