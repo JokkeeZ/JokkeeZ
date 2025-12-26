@@ -16,8 +16,8 @@ Keen on discovering and experimenting with new tech stuff!</br>
 <hr>
 
 <a href="https://github.com/jokkeez">
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=transparent"/>
+  <img align="center" height="150rem" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jokkeez&layout=compact&theme=transparent"/>
 </a>
 <a href="https://github.com/jokkeez">
-  <img align="center" height="150rem" src="https://github-readme-stats.vercel.app/api?username=jokkeez&show_icons=true&rank_icon=github&theme=transparent"/>
+  <img align="center" height="150rem" src="https://github-readme-stats-fast.vercel.app/api?username=jokkeez&show_icons=true&rank_icon=github&theme=transparent"/>
 </a>
