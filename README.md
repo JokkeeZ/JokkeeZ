@@ -1,5 +1,5 @@
 ### Hi, I'm Joel 👋
-Self-taught developer, currently studying ICT engineering to level up my skills.</br>
+Self-taught developer, currently studying ICT engineering to dive deeper.</br>
 C# enjoyer since .NET Framework 4.5 😎</br>
 
 ### Some of my main interests include
